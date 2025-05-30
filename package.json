@@ -1,0 +1,16 @@
+{
+  "name": "linkedin-job-apply-automation",
+  "version": "1.0.0",
+  "description": "Automation script for applying jobs on LinkedIn, drafting resumes, and storing applied job links.",
+  "main": "index.js",
+  "scripts": {
+    "start": "rm -rf puppeteer_data && node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.8.2",
+    "exceljs": "^4.4.0",
+    "docx": "^9.5.0"
+  },
+  "author": "",
+  "license": "MIT"
+}

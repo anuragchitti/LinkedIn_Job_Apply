@@ -1,0 +1,47 @@
+{
+  "username": "anuragchitti83@gmail.com",
+  "password": "Anur@g021604ch",
+  "phone_number": "5716419191",
+  "positions": [
+    "React",
+    "JavaScript",
+    "React Native",
+    "Node.js",
+    "MongoDB",
+    "Express.js",
+    "TypeScript",
+    "Redux"
+  ],
+  "locations": [
+    "Virginia",
+    "New York",
+    "California",
+    "Texas",
+    "Florida",
+    "North Carolina",
+    "Georgia",
+    "Maryland",
+    "Washington",
+    "United States",
+    "Remote"
+  ],
+  "salary": "130,000",
+  "rate": "Yearly",
+  "blacklist": [], 
+  "blackListTitles": [],
+  "experience_level": [
+    2,
+    3
+  ],
+  "jobType": [
+    "F", "P", "C", "O"
+  ],
+  "workType": [
+    "1", "2", "3"
+  ],
+  "uploads": {
+    "Resume": "resume.docx",
+    "Cover Letter": ""
+  },
+  "output_filename": "appliedJobs.xlsx"
+}
